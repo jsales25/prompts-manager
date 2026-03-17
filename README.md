@@ -11,6 +11,15 @@ O Prompts Manager é um gerenciador de prompts que permite aos usuários criar, 
 - **Copiar Conteúdo:** Copie o conteúdo do prompt para a área de transferência com um único clique.
 - **Armazenamento Local:** Todos os prompts são salvos no armazenamento local do seu navegador, garantindo que seus dados permaneçam privados e acessíveis.
 
+### Screenshot
+
+![Design do projeto](./src/design/desktop-design.png)
+
+### Links
+
+- Solução no Repositório: [Acesse o repositório aqui](https://github.com/jsales25/prompts-manager.git)
+- Live Site: [Acesse o site aqui](https://jsales25.github.io/prompts-manager/)
+
 ## Tecnologias Utilizadas
 
 - **HTML5:** Estrutura da página.
